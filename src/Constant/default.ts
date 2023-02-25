@@ -1,0 +1,31 @@
+export const typeColors: any = {
+  normal: "#BCBCAC",
+  fighting: "#BC5442",
+  flying: "#669AFF",
+  poison: "#AB549A",
+  ground: "#DEBC54",
+  rock: "#BCAC66",
+  bug: "#ABBC1C",
+  ghost: "#6666BC",
+  steel: "#ABACBC",
+  fire: "#FF421C",
+  water: "#2F9AFF",
+  grass: "#78CD54",
+  electric: "#FFCD30",
+  psychic: "#FF549A",
+  ice: "#78DEFF",
+  dragon: "#7866EF",
+  dark: "#785442",
+  fairy: "#FFACFF",
+  shadow: "#0E2E4C",
+};
+
+export const statsColor: any = {
+  hp: "#DF2140",
+  attk: "#FF994D",
+  def: "#eecd3d",
+  spa: "#85DDFF",
+  spd: "#96da83",
+  spD: "#FB94A8",
+  tot: "#7195DC",
+};
